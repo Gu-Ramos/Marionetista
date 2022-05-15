@@ -68,7 +68,7 @@
         * O boneco se prepara pra atacar, dando vantagem ao seu próximo dado de ataque.
     + Nível 9
         * O boneco se move para uma posição mais vantajosa, usando toda a sua velocidade de movimento, para prover ***cobertura*** para uma criatura de sua escolha
-        * O boneco se encolhe e se segura, ganhando +3 de AC até o fim do turno.
+        * O boneco perde seu __ataque__ e se encolhe, se segurando em forma de bolinha, ganhando +3 de AC até o fim do turno.
         * O boneco faz um teste de agarramento contra uma criatura até 5 pés de distância dela.
 ## Manobras especiais
 - Você tem 3 pontos de manobras por descanso longo, podendo recuperar um deles com um descanso curto. Você pode gastar um ponto de manobra pra realizar uma das manobras a seguir:
