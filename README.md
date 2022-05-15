@@ -33,6 +33,8 @@
     + Bônus: O Macaco pode tirar a espada do rabo e pegar ela com as duas mãos, dando 1d10 ao invés de 1d8 de dano, mas impossibilitando o uso dos socos.
     + Bônus: O Macaco é muito ágil. Ele não gera ataques de oportunidade e pode pular 5m (15ft) no ar.
     + Bônus: O Macaco pode servir de montaria, mas isso limita a velocidade dele para 30ft e ele não pode mais atacar com as mãos.
+    + Especial: O Macaco bate nos peito e ruge, causando medo aos seus oponentes. Os inimigos que verem e ouvirem o macaco devem passar num teste de wisdom DC 10 + INT (15) ou ficará com medo do macaco. Dois usos por descanso longo.
+    + Especial:
 
 - **Tank** *(baseado em https://www.dndwiki.io/monsters/steel-defender)*
     + HP: (**LVL** * **5**) + **INT** + **2d8** + **5** (66)
