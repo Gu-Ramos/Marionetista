@@ -10,7 +10,7 @@
     + Especial: Tudo ou nada. O boneco ataca com uma força perigosamente alta, podendo adicionar **5d6** de dano ao ataque ao custo de graves danos causados a sua estrutura (3d6 dos seus pontos de vida). Dois usos por descanso longo.
 
 - **Ranged** *(baseado em https://www.dndwiki.io/monsters/homunculus-servant)*
-    + HP: (**LVL** * **2**) + **INT** + **2d6** + 4 (37)
+    + HP: (**LVL** * **2**) + **INT** + **2d6** + 3 (36)
     + `STR 04 | DEX 18 | CON 14`
     + `WIS 10 | INT 10 | CHA 07`
     + Velocidade: **50ft**
@@ -22,7 +22,7 @@
     + Obs: Ao usar "Metralhadora" você só pode usar "Tiro potente" para UM dos ataques.
 
 - **Besta**
-    + HP: (**LVL** * **2**) + **INT** + **2d10** + 5200
+    + HP: (**LVL** * **2**) + **INT** + **2d6** + 3 (36)
     + `STR 16 | DEX 18 | CON 14`
     + `WIS 04 | INT 01 | CHA 01`
     + Velocidade: **50ft**
@@ -32,6 +32,7 @@
         * Mordida: **(2d6 + INT + 3)**
     + Bônus: O Macaco pode tirar a espada do rabo e pegar ela com as duas mãos, dando 1d10 ao invés de 1d8 de dano, mas impossibilitando o uso dos socos.
     + Bônus: O Macaco é muito ágil. Ele não gera ataques de oportunidade e pode pular 5m (15ft) no ar.
+    + Bônus: O Macaco pode servir de montaria, mas isso limita a velocidade dele para 30ft e ele não pode mais atacar com as mãos.
 
 - **Tank** *(baseado em https://www.dndwiki.io/monsters/steel-defender)*
     + HP: (**LVL** * **5**) + **INT** + **2d8** + **5** (66)
