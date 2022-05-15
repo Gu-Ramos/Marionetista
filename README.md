@@ -34,7 +34,7 @@
     + Bônus: O macaco é muito ágil. Ele não gera ataques de oportunidade e pode pular 5m (15ft) no ar.
     + Bônus: O macaco pode servir de montaria, mas isso limita a velocidade dele para 30ft e ele não pode mais atacar com as mãos.
     + Especial: O Macaco bate nos peito e ruge, causando medo aos seus oponentes. Os inimigos que verem e ouvirem o macaco devem passar num teste de wisdom (DC 10 + INT) (15) ou ficará com medo do macaco. Um uso por descanso longo.
-    + Especial: Presa do trovão. O macaco carrega suas presas com seu núcleo de energia. O adversário deve fazer um teste de constituição (DC + INT) (15) e tomar 5d8 de dano elétrico, ou metade disso se passar. Dois usos por descanso longo.
+    + Especial: Presa do trovão. O macaco carrega suas presas com seu núcleo de energia. O adversário deve fazer um teste de constituição (DC + INT) (15) e tomar 4d8 de dano elétrico, ou metade disso se passar. Três usos por descanso longo.
 
 - **Tank** *(baseado em https://www.dndwiki.io/monsters/steel-defender)*
     + HP: (**LVL** * **5**) + **INT** + **2d8** + **5** (66)
