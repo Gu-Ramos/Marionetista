@@ -1,7 +1,7 @@
 # TIPOS DE MARIONETE:
 - **Guerreiro** *(baseado em https://www.dndwiki.io/monsters/animated-armor)*
     + HP: (**LVL** * **2**) + **INT** + **2d10** + 5 (45)
-    + `STR 16 | DEX 11 | CON 13`
+    + `STR 16 | DEX 11 | CON 14`
     + `WIS 01 | INT 01 | CHA 01`
     + Velocidade: **35ft**
     + ATK: **(3d4 + INT + 3)**
@@ -11,7 +11,7 @@
 
 - **Ranged** *(baseado em https://www.dndwiki.io/monsters/homunculus-servant)*
     + HP: (**LVL** * **2**) + **INT** + **2d6** + 4 (37)
-    + `STR 04 | DEX 18 | CON 12`
+    + `STR 04 | DEX 18 | CON 14`
     + `WIS 10 | INT 10 | CHA 07`
     + Velocidade: **50ft**
     + ATK: **(2d10 + INT + 3)** Penetrante
