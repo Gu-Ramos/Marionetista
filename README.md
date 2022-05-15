@@ -64,17 +64,19 @@
 ## Manipulação de cordas
 - Quando for seu turno, você pode abrir mão de sua reação pra focar em uma das habilidades a seguir:
     + Nível 1
-       * O boneco se move (com até metade do movimento dele) pra cima de um alvo que você consiga enxergar.
-        * O boneco faz um ataque corpo-a-corpo contra uma criatura a até 5 pés dela
-        * O boneco se prepara pra atacar, dando vantagem ao seu próximo dado de ataque.
-    + Nível 9
-        * O boneco se move para uma posição mais vantajosa, usando toda a sua velocidade de movimento, para prover ***cobertura*** para uma criatura de sua escolha
+        * O boneco se move (com até metade do movimento dele) pra cima de um alvo que você consiga enxergar.
         * O boneco perde seu ***ataque*** e se encolhe, se segurando em forma de bolinha, ganhando +3 de AC até o fim do turno.
+    + Nível 9
+        * O boneco se prepara pra atacar, obtendo vantagem ao seu próximo dado de ataque.
+        * O boneco se move para uma posição mais vantajosa, usando toda a sua velocidade de movimento, para prover ***cobertura*** para uma criatura de sua escolha
+    + Nível 11
+        * O boneco faz um ataque corpo-a-corpo contra uma criatura a até 5 pés dela
         * O boneco faz um teste de agarramento contra uma criatura até 5 pés de distância dela.
 ## Manobras especiais
 - Você tem 3 pontos de manobras por descanso longo, podendo recuperar um deles com um descanso curto. Você pode gastar um ponto de manobra pra realizar uma das manobras a seguir:
-    + Quando você for atacado, você pode gastar sua reação pra comandar um boneco até 15 pés de você para se aproximar de você, servindo de parede e tomando o dano no seu lugar.
-    + Vantagem, ajudar amigo, derrubar, agarrar, etc...
+    + Você usa suas cordas pra tirar a atenção de uma criatura, dando vantagem ao próximo ataque feito contra ela.
+    + Você pode usar suas cordas para ajudar alguém a até 15ft de distância de você a se soltar de uma criatura ou se levantar como ação bônus.
+    + **(Nível 9)** Quando você for atacado, você pode gastar sua reação pra comandar um boneco até 15 pés de você para se aproximar de você, servindo de parede e absorvendo metade do dano que você iria tomar.
 
 
 **(Todos os AC dependem do material)*
@@ -82,3 +84,10 @@
 **(O AC dos bonecos de ferro foi reduzido de 19 para 18)*
 
 **(String of life: duração POR BATALHA, bônus de atk = INT)*
+
+***Dado de ataque dos bonecos:
+- Guerreiro: 10 + STR
+- Ranged: 10 + DEX
+- Besta: 10 + STR pra mordida e socão. O da espada pode ser DEX se ela tiver a propriedade de FINESSE.
+- Tank: 10 + STR
+**
