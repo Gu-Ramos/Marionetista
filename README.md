@@ -45,7 +45,7 @@
     + Bônus: O marionetista pode fazer esse fantoche ser blindado contra até três tipos de dano, fazendo ele tomar apenas 2/3 do dano original (arredondado pra cima) de qualquer ataque desse tipo.
     + Bônus: O boneco tem vantagem em qualquer tentativa de derrubar um inimigo, e pode abrir mão dessa vantagem para tentar derrubar dois inimigos (a 5ft de alcance) de uma vez.
     + Bônus: O boneco tem +1 de AC.
-    + Especial: O boneco pode tentar se prender a um inimigo usando extensões das cordas do marionetista. Isso não previne que a criatura faça ações, mas impede que ela se mova. Para a criatura se soltar ou evitar ser presa, ela deve realizar um teste de destreza (DC 10 + STR) (15). 4 usos por descanso longo.
+    + Especial: O boneco pode realizar a ação de agarrar contra ***uma*** criatura a até 15ft de distância usando extensões das cordas do marionetista. (DC 10 + INT). 4 usos por descanso longo.
     + Especial: Heala **(2d8 + 2)** a si mesmo ou UM constructo/objeto que ele alcançar. Isso não reconstrói bonecos mortos. 3 usos por descanso longo.
     + Especial: O boneco se auto-destrói explodindo num raio de 15ft, dando um dano em área igual a **(HP/2)d3 + 20**. Se o HP restante da marionete for menor ou igual a 20, o dano é aumentado para **(HP/2)d4 + 15**.
 
