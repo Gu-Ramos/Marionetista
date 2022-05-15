@@ -1,7 +1,7 @@
 # TIPOS DE MARIONETE:
 - **Guerreiro** *(baseado em https://www.dndwiki.io/monsters/animated-armor)*
     + HP: (**LVL** * **2**) + **INT** + **2d10** + 5 (45)
-    + `STR 16 | DEX 12 | CON 14`
+    + `STR 18 | DEX 12 | CON 14`
     + `WIS 01 | INT 01 | CHA 01`
     + Velocidade: **35ft**
     + ATK: **(3d4 + INT + 3)**
