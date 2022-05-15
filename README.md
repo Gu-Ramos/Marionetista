@@ -4,7 +4,7 @@
     + `STR 16 | DEX 11 | CON 13`
     + `WIS 01 | INT 01 | CHA 01`
     + Velocidade: **30ft**
-    + ATK: **(3d4 + Proficiência)**
+    + ATK: **(3d4 + INT + Proficiência)**
     + Bônus: O boneco pode fazer dois ataques em um turno.
     + Especial: Frenesi. O boneco pode atacar uma vez a mais no turno, adicionando **(1d4 + Proficiência)** a mais de dano em cada acerto. 3 usos por descanso longo.
     + Especial: Tudo ou nada. O boneco ataca com uma força perigosamente alta, podendo adicionar **6d6 + Proficiência** de dano ao ataque ao custo de graves danos causados a sua estrutura (2d12 dos seus pontos de vida). Um uso por descanso longo.
