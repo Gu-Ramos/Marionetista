@@ -28,7 +28,7 @@
     + Velocidade: **50ft**
     + ATK: Dois entre:
         * Espada: **(1d8 + INT + 3)**
-        * Socão (2x): **(2d4 + INT + 3)**
+        * Socão: **(2d4 + INT + 3)**
         * Mordida: **(2d6 + INT + 3)**
     + Bônus: O macaco pode tirar a espada do rabo e pegar ela com as duas mãos, dando 1d10 ao invés de 1d8 de dano, mas impossibilitando o uso dos socos.
     + Bônus: O macaco é muito ágil. Ele não gera ataques de oportunidade e pode pular 5m (15ft) no ar.
