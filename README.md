@@ -1,4 +1,4 @@
-<img src="https://github.com/Gu-Ramos/test/blob/main/15-05-2022_16h57.png" alt="img" align="center" width="1000px">
+<img src="https://github.com/Gu-Ramos/test/blob/main/marionetista.png" alt="img" align="center" width="1000px">
 
 # TIPOS DE MARIONETE:
 - **Guerreiro** *(baseado em https://www.dndwiki.io/monsters/animated-armor)*
