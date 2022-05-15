@@ -21,6 +21,18 @@
     + Especial: Metralhadora. O boneco pode atacar duas vezes. Dois usos por descanso longo.
     + Obs: Ao usar "Metralhadora" você só pode usar "Tiro potente" para UM dos ataques.
 
+- **Besta**
+    + HP: (**LVL** * **2**) + **INT** + **2d10** + 5200
+    + `STR 16 | DEX 18 | CON 14`
+    + `WIS 04 | INT 01 | CHA 01`
+    + Velocidade: **50ft**
+    + ATK: Dois entre:
+        * Espada: **(1d8 + INT + 3)**
+        * Socão (2x): **(1d4 + INT + 3)**
+        * Mordida: **(2d6 + INT + 3)**
+    + Bônus: O Macaco pode tirar a espada do rabo e pegar ela com as duas mãos, dando 1d10 ao invés de 1d8 de dano, mas impossibilitando o uso dos socos.
+    + Bônus: O Macaco é muito ágil. Ele não gera ataques de oportunidade e pode pular 5m (15ft) no ar.
+
 - **Tank** *(baseado em https://www.dndwiki.io/monsters/steel-defender)*
     + HP: (**LVL** * **5**) + **INT** + **2d8** + **5** (66)
     + `STR 20 | DEX 08 | CON 14`
