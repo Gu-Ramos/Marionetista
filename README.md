@@ -4,10 +4,10 @@
     + `STR 16 | DEX 11 | CON 13`
     + `WIS 01 | INT 01 | CHA 01`
     + Velocidade: **35ft**
-    + ATK: **(3d4 + INT + 4)**
+    + ATK: **(3d4 + INT + 3)**
     + Bônus: O boneco pode fazer dois ataques em um turno.
-    + Especial: Frenesi. O boneco pode atacar uma vez a mais no turno, adicionando **(1d4)** a mais de dano em cada acerto. 3 usos por descanso longo.
-    + Especial: Tudo ou nada. O boneco ataca com uma força perigosamente alta, podendo adicionar **6d6 + Proficiência** de dano ao ataque ao custo de graves danos causados a sua estrutura (2d12 dos seus pontos de vida). Um uso por descanso longo.
+    + Especial: Frenesi. O boneco pode atacar uma vez a mais no turno. 4 usos por descanso longo.
+    + Especial: Tudo ou nada. O boneco ataca com uma força perigosamente alta, podendo adicionar **5d6** de dano ao ataque ao custo de graves danos causados a sua estrutura (3d6 dos seus pontos de vida). Dois usos por descanso longo.
 
 - **Ranged** *(baseado em https://www.dndwiki.io/monsters/homunculus-servant)*
     + HP: (**LVL** * **2**) + **INT** + **2d6** + 4 (37)
