@@ -19,7 +19,7 @@
     + ATK: **(2d10 + INT + 3)** Penetrante
     + Alcance: **90ft**
     + Bônus: Se fizer um saving throw de <ins>**destreza**</ins> para tomar metade de algum dano, o dano é zerado ao invés de reduzido pela metade num sucesso.
-    + Especial: Tiro potente. Você pode adicionar **(3d6 + Proficiência)** de dano a mais no tiro 3 vezes por descanso longo. Você pode recuperar um uso dessa habilidade com um descanso curto.
+    + Especial: Tiro potente. Você pode adicionar **(3d6 + 3)** de dano a mais no tiro 3 vezes por descanso longo. Você pode recuperar um uso dessa habilidade com um descanso curto.
     + Especial: Metralhadora. O boneco pode atacar duas vezes. 2 usos por descanso longo.
     + Obs: Ao usar "Metralhadora" você só pode usar "Tiro potente" para UM dos ataques.
 
