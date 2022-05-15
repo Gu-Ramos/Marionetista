@@ -1,3 +1,6 @@
+# MARIONETISTA
+#### (https://www.dandwiki.com/wiki/Marionetista_(5e_Class))
+
 <img src="https://github.com/Gu-Ramos/test/blob/main/marionetista.png" alt="img" align="center" width="800px">
 
 # TIPOS DE MARIONETE:
@@ -8,8 +11,8 @@
     + Velocidade: **35ft**
     + ATK: **(3d4 + INT + 3)**
     + Bônus: O boneco pode fazer dois ataques em um turno.
-    + Especial: Frenesi. O boneco pode atacar uma vez a mais no turno. 4 usos por descanso longo.
-    + Especial: Tudo ou nada. O boneco ataca com uma força perigosamente alta, podendo adicionar **5d6** de dano ao ataque ao custo de graves danos causados a sua estrutura (3d6 dos seus pontos de vida). 2 usos por descanso longo.
+    + Especial: Frenesi. O boneco pode atacar uma vez a mais no turno. *(4 usos por descanso longo)*
+    + Especial: Tudo ou nada. O boneco ataca com uma força perigosamente alta, podendo adicionar **5d6** de dano ao ataque ao custo de graves danos causados a sua estrutura **(3d6 dos seus pontos de vida)**. *(2 usos por descanso longo)*
 
 - **Ranged** *(baseado em https://www.dndwiki.io/monsters/homunculus-servant)*
     + HP: (**LVL** * **2**) + **INT** + **2d6** + 3 (36)
@@ -18,9 +21,9 @@
     + Velocidade: **50ft**
     + ATK: **(2d10 + INT + 3)** Penetrante
     + Alcance: **90ft**
-    + Bônus: Se fizer um saving throw de <ins>**destreza**</ins> para tomar metade de algum dano, o dano é zerado ao invés de reduzido pela metade num sucesso.
-    + Especial: Tiro potente. Você pode adicionar **(3d6 + 3)** de dano a mais no tiro 3 vezes por descanso longo. Você pode recuperar um uso dessa habilidade com um descanso curto.
-    + Especial: Metralhadora. O boneco pode atacar duas vezes. 2 usos por descanso longo.
+    + Bônus: Se fizer um saving throw de <ins>**destreza**</ins> para tomar metade de algum dano, o dano é **zerado** ao invés de reduzido pela metade num sucesso.
+    + Especial: Tiro potente. Você pode adicionar **(3d6 + 3)** de dano a mais no tiro. *(3 usos por descanso longo, recupera um uso em um descanso curto)* 
+    + Especial: Metralhadora. O boneco pode atacar duas vezes. *(2 usos por descanso longo)*
     + Obs: Ao usar "Metralhadora" você só pode usar "Tiro potente" para UM dos ataques.
 
 - **Besta**
@@ -32,11 +35,11 @@
         * Espada: **(1d8 + INT + 3)**
         * Socão: **(2d4 + INT + 3)**
         * Mordida: **(2d6 + INT + 3)**
-    + Bônus: O macaco pode tirar a espada do rabo e pegar ela com as duas mãos, dando 1d10 ao invés de 1d8 de dano, mas impossibilitando o uso dos socos.
-    + Bônus: O macaco é muito ágil. Ele não gera ataques de oportunidade e pode pular 5m (15ft) no ar.
+    + Bônus: O macaco pode tirar a espada do rabo e pegar ela com as duas mãos, dando **1d10** ao invés de 1d8 de dano, mas impossibilitando o uso dos socos.
+    + Bônus: O macaco é muito ágil. Ele não gera ataques de oportunidade e pode pular **5m (15ft)** no ar.
     + Bônus: O macaco pode servir de montaria, mas isso limita a velocidade dele para 30ft e ele não pode mais atacar com as mãos.
-    + Especial: O Macaco bate nos peito e ruge, causando medo aos seus oponentes. Os inimigos que verem e ouvirem o macaco devem passar num teste de wisdom (DC 10 + INT) (15) ou ficará com medo do macaco. 1 uso por descanso longo.
-    + Especial: Presa do trovão. O macaco carrega suas presas com seu núcleo de energia. O adversário deve fazer um teste de constituição (DC + INT) (15) e tomar 4d8 de dano elétrico, ou metade disso se passar. 3 usos por descanso longo.
+    + Especial: O Macaco bate nos peito e ruge, causando medo aos seus oponentes. As criaturas que verem e ouvirem o macaco deverão passar num teste de wisdom **(DC 10 + INT) (15)** ou ficarão com medo do macaco. *(1 uso por descanso longo)*
+    + Especial: Presa do trovão. O macaco carrega suas presas com seu núcleo de energia. O adversário deve fazer um teste de constituição **(DC 10 + INT) (15)** e tomar **4d8** de dano elétrico, ou metade disso se passar. *(3 usos por descanso longo)*
 
 - **Tank** *(baseado em https://www.dndwiki.io/monsters/steel-defender)*
     + HP: (**LVL** * **5**) + **INT** + **2d8** + **5** (66)
@@ -44,13 +47,13 @@
     + `WIS 10 | INT 04 | CHA 06`
     + Velocidade: **25ft**
     + ATK: **(2d6 + INT)** Contundente
-    + Bônus: O boneco tem +1 de AC.
+    + Bônus: O boneco tem **+1 de AC.**
     + Bônus: O marionetista pode fazer esse fantoche ser blindado contra até três tipos de dano, fazendo ele tomar apenas 2/3 do dano original (arredondado pra cima) de qualquer ataque desse tipo.
     + Bônus: O boneco tem vantagem em qualquer tentativa de derrubar um inimigo, e pode abrir mão dessa vantagem para tentar derrubar dois inimigos (a 5ft de alcance) de uma vez.
-    + Bônus: **(Nível 9)** O boneco pode, no lugar de atacar, tormar a forma de um muro de 2 metros (10ft), podendo tentar impedir a passagem de inimigos por ele (Teste DEX DC 15), e servindo como <ins>**cobertura**</ins> para qualquer criatura atrás dele. Quando nesta forma, a marionete não pode atacar ou se mover.
-    + Especial: O boneco pode realizar a ação de agarrar contra <ins>**uma**</ins> criatura a até 15ft de distância usando extensões das cordas do marionetista. (DC 10 + INT). 4 usos por descanso longo.
-    + Especial: Heala **(2d8 + 2)** a si mesmo ou UM constructo/objeto que ele alcançar. Isso não reconstrói bonecos mortos. 2 usos por descanso longo.
-    + Especial: O boneco se auto-destrói explodindo num raio de 15ft. Cada criatura no raio deve rolar um saving throw de DEX (DC 10 + INT + 1) (16) e tomar um dano igual a (ou metade de, se passar no teste) **(HP / 2)d4 + 20**. Se o HP restante da marionete for menor ou igual a 20, o dano é aumentado para **(HP / 2)d6 + 15**.
+    + Bônus: **(Nível 9)** O boneco pode, no lugar de atacar, tormar a forma de um muro de 2 metros (10ft), podendo tentar impedir a passagem de inimigos por ele (A criatura deve fazer um teste de destreza **DC 15** para passar por cima dele se ele não quiser que ela passe), e servindo como <ins>**cobertura**</ins> para qualquer criatura atrás dele. Quando nesta forma, a marionete não pode atacar ou se mover.
+    + Especial: O boneco pode realizar a ação de agarrar contra <ins>**uma**</ins> criatura a até 15ft de distância usando extensões das cordas do marionetista. **(DC 10 + INT)**. *(4 usos por descanso longo)*
+    + Especial: Heala **(2d8 + 2)** a si mesmo ou UM constructo/objeto que ele alcançar. Isso não reconstrói bonecos mortos. *(2 usos por descanso longo)*
+    + Especial: O boneco se auto-destrói explodindo num raio de 15ft. Cada criatura no raio deve rolar um saving throw de DEX (DC 10 + INT + 1) (16) e tomar um dano igual a (ou metade de, se passar no teste) **(HP/2)d4 + 20**. Se o HP restante da marionete for menor ou igual a 20, o dano é aumentado para **(HP/2)d6 + 15**.
 
 ----
 ## Marionetes especiais
