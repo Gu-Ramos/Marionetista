@@ -85,9 +85,9 @@
 
 **(String of life: duração POR BATALHA, bônus de atk = INT)*
 
-***Dado de ataque dos bonecos:
-- Guerreiro: 10 + STR
-- Ranged: 10 + DEX
-- Besta: 10 + STR pra mordida e socão. O da espada pode ser DEX se ela tiver a propriedade de FINESSE.
-- Tank: 10 + STR
-**
+***Dado de ataque dos bonecos:**
+- Guerreiro: **10 + STR**
+- Ranged: **10 + DEX**
+- Besta: **10 + STR** pra todos os ataques. O da espada pode ser **10 + DEX** se ela tiver a propriedade de **FINESSE**.
+- Tank: **10 + STR**
+
