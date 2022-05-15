@@ -1,4 +1,4 @@
-<img src="https://github.com/Gu-Ramos/test/blob/main/marionetista.png" alt="img" align="center" width="1000px">
+<img src="https://github.com/Gu-Ramos/test/blob/main/marionetista.png" alt="img" align="center" width="800px">
 
 # TIPOS DE MARIONETE:
 - **Guerreiro** *(baseado em https://www.dndwiki.io/monsters/animated-armor)*
@@ -18,7 +18,7 @@
     + Velocidade: **50ft**
     + ATK: **(2d10 + INT + 3)** Penetrante
     + Alcance: **90ft**
-    + Bônus: Se fizer um saving throw de ***destreza*** para tomar metade do dano, o dano é zerado ao invés de reduzido pela metade num sucesso.
+    + Bônus: Se fizer um saving throw de <ins>**destreza**</ins> para tomar metade de algum dano, o dano é zerado ao invés de reduzido pela metade num sucesso.
     + Especial: Tiro potente. Você pode adicionar **(3d6 + Proficiência)** de dano a mais no tiro 3 vezes por descanso longo. Você pode recuperar um uso dessa habilidade com um descanso curto.
     + Especial: Metralhadora. O boneco pode atacar duas vezes. 2 usos por descanso longo.
     + Obs: Ao usar "Metralhadora" você só pode usar "Tiro potente" para UM dos ataques.
@@ -47,8 +47,8 @@
     + Bônus: O boneco tem +1 de AC.
     + Bônus: O marionetista pode fazer esse fantoche ser blindado contra até três tipos de dano, fazendo ele tomar apenas 2/3 do dano original (arredondado pra cima) de qualquer ataque desse tipo.
     + Bônus: O boneco tem vantagem em qualquer tentativa de derrubar um inimigo, e pode abrir mão dessa vantagem para tentar derrubar dois inimigos (a 5ft de alcance) de uma vez.
-    + Bônus: **(Nível 9)** O boneco pode, no lugar de atacar, tormar a forma de um muro de 2 metros (10ft), podendo tentar impedir a passagem de inimigos por ele (Teste DEX DC 15), e servindo como **cobertura** para qualquer criatura atrás dele. Quando nesta forma, a marionete não pode atacar ou se mover.
-    + Especial: O boneco pode realizar a ação de agarrar contra ***uma*** criatura a até 15ft de distância usando extensões das cordas do marionetista. (DC 10 + INT). 4 usos por descanso longo.
+    + Bônus: **(Nível 9)** O boneco pode, no lugar de atacar, tormar a forma de um muro de 2 metros (10ft), podendo tentar impedir a passagem de inimigos por ele (Teste DEX DC 15), e servindo como <ins>**cobertura**</ins> para qualquer criatura atrás dele. Quando nesta forma, a marionete não pode atacar ou se mover.
+    + Especial: O boneco pode realizar a ação de agarrar contra <ins>**uma**</ins> criatura a até 15ft de distância usando extensões das cordas do marionetista. (DC 10 + INT). 4 usos por descanso longo.
     + Especial: Heala **(2d8 + 2)** a si mesmo ou UM constructo/objeto que ele alcançar. Isso não reconstrói bonecos mortos. 2 usos por descanso longo.
     + Especial: O boneco se auto-destrói explodindo num raio de 15ft. Cada criatura no raio deve rolar um saving throw de DEX (DC 10 + INT + 1) (16) e tomar um dano igual a (ou metade de, se passar no teste) **(HP / 2)d4 + 20**. Se o HP restante da marionete for menor ou igual a 20, o dano é aumentado para **(HP / 2)d6 + 15**.
 
@@ -67,7 +67,7 @@
 - Quando for seu turno, você pode abrir mão de sua reação pra focar em uma das habilidades a seguir:
     + Nível 1
         * O boneco se move (com até metade do movimento dele) pra cima de um alvo que você consiga enxergar.
-        * O boneco perde seu ***ataque*** e se encolhe, se segurando em forma de bolinha, ganhando +3 de AC até o fim do turno.
+        * O boneco perde seu <ins>**ataque**</ins> e se encolhe, se segurando em forma de bolinha, ganhando +3 de AC até o fim do turno.
     + Nível 9
         * O boneco se prepara pra atacar, obtendo vantagem ao seu próximo dado de ataque.
         * O boneco se move para uma posição mais vantajosa, usando toda a sua velocidade de movimento, para prover ***cobertura*** para uma criatura de sua escolha
