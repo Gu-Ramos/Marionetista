@@ -51,22 +51,12 @@
 ----
 ## Marionetes especiais
 
-
-
 - **Mensageiro**
     + HP: **LVL** + **3d4** + **2**
     + Darkvision: 60ft
     + Percepção passiva: 18
     + Bônus: Não provoca ataques de oportunidade, seu mestre consegue ver e ouvir tudo que o constructo vê, e o constructo pode falar e fazer sons diversos.
 
-- **Armadilha**
-    + `Work in progress`
-
-
-
-**(Todos os AC dependem do material)*
-
-***(O AC dos bonecos de ferro foi reduzido de 19 para 18)*
 
 # HABILIDADES:
 ## Manipulação de cordas
@@ -83,3 +73,10 @@
 - Você tem 3 pontos de manobras por descanso longo, podendo recuperar um deles com um descanso curto. Você pode gastar um ponto de manobra pra realizar uma das manobras a seguir:
     + Quando você for atacado, você pode gastar sua reação pra comandar um boneco até 15 pés de você para se aproximar de você, servindo de parede e tomando o dano no seu lugar.
     + Vantagem, ajudar amigo, derrubar, agarrar, etc...
+
+
+**(Todos os AC dependem do material)*
+
+**(O AC dos bonecos de ferro foi reduzido de 19 para 18)*
+
+**(String of life: duração POR BATALHA, bônus de atk = INT)*
