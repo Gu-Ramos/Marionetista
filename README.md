@@ -39,7 +39,7 @@
     + `STR 20 | DEX 08 | CON 14`
     + `WIS 10 | INT 04 | CHA 06`
     + Velocidade: **25ft**
-    + ATK: **(1d8 + INT)** Contundente
+    + ATK: **(2d6 + INT)** Contundente
     + Bônus: O marionetista pode fazer esse fantoche ser blindado contra até três tipos de dano, fazendo ele tomar apenas 2/3 do dano original (arredondado pra cima) de qualquer ataque desse tipo.
     + Bônus: O boneco tem vantagem em qualquer tentativa de derrubar um inimigo, e pode abrir mão dessa vantagem para tentar derrubar dois inimigos (a 5ft de alcance) de uma vez.
     + Bônus: O boneco tem +1 de AC.
